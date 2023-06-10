@@ -1,15 +1,12 @@
 # Game-Demo
 
 ## Description 
-This application is the program that working with the Chat-GPT Turbo 3.5. 
-It only used the JS and the HTML to create simple chatbot function. Should turn this into the API
+
 
 ## UserStory 
 
 ```md
-As a User who wants to utilize the ChatGPT as an API System 
-I want to utilize ChatGPT as a various way
-SO THAT I can insert this api in several different projects 
+
 
 ```
 
