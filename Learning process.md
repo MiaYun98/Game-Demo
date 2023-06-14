@@ -6,3 +6,5 @@
  - 6/12/2023 Texture draqing and using Randering (modeling a Egg, Avocodo, Bread)
  - 6/13/2023 Lighting and Rendering 
  ![Alt text](Creation/brackfast%20.png)
+ 
+ - 6/14/2023 building a small room with bed and table - utilized the sculpting 
