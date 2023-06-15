@@ -8,3 +8,4 @@
  ![Alt text](Creation/brackfast%20.png)
  
  - 6/14/2023 building a small room with bed and table - utilized the sculpting 
+ - 6/15/2023 Worked on Chair and Book -> how to copy and using center curser to selector
