@@ -9,6 +9,8 @@
  
  - 6/14/2023 building a small room with bed and table - utilized the sculpting 
  - 6/15/2023 Worked on Chair and Book -> how to copy and using center curser to selector
+ - 6/16/2023 Lighting and Rendering for the House project 
+![Alt text](Creation/House.png)
 
 3. AI and ML Study 
  - 6/15/2023 AWS AI&ML Kick off session and first section is done 
