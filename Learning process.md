@@ -12,9 +12,11 @@
  - 6/16/2023 Lighting and Rendering for the House project 
 ![Alt text](Creation/House.png)
 
- - 6/18/2023 started building a self-designed object, the Traditional Korean food Injulmi. 
+ - 6/18/2023 started building a self-designed object, the Traditional Korean food Injulmi.
+ - 
 
 3. AI and ML Study 
  - 6/15/2023 AWS AI&ML Kick-off session and the first section is done
  - 6/18/2023 AWS Session Attended
  - 6/19/2023 AWS Control Flow Lecture started
+ - 6/20/2023 AWS Control Flow done
