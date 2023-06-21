@@ -21,3 +21,4 @@
  - 6/18/2023 AWS Session Attended
  - 6/19/2023 AWS Control Flow Lecture started
  - 6/20/2023 AWS Control Flow done
+ - 6/21/2023 AWS Functions started it is about the building basic function in Python. 
