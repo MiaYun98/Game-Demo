@@ -1,6 +1,8 @@
 1. UnReal Engine  https://www.youtube.com/watch?v=6UlU_FsicK8 
   - 6/9/2023 UnReal Engine basic getting the Reference. - Downloaded the program
-  - 6/10/2023 UnReal Engine Stack O Bot Tutorial 15min 
+  - 6/10/2023 UnReal Engine Stack O Bot Tutorial 15min
+  - 6/20/2023 Understand how users are interacting in Unreal Engine. But still have to think about what type of game that I want to build.
+  - 
 2. Blender 
  - 6/11/2023 Basic Blender - Modeling and smoothing 
  - 6/12/2023 Texture drawing and using Rendering (modeling an Egg, Avocado, and Bread)
