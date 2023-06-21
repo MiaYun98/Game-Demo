@@ -3,6 +3,7 @@
   - 6/10/2023 UnReal Engine Stack O Bot Tutorial 15min
   - 6/20/2023 Understand how users are interacting in Unreal Engine. But still have to think about what type of game that I want to build.
   - 
+
 2. Blender 
  - 6/11/2023 Basic Blender - Modeling and smoothing 
  - 6/12/2023 Texture drawing and using Rendering (modeling an Egg, Avocado, and Bread)
@@ -23,4 +24,13 @@
  - 6/18/2023 AWS Session Attended
  - 6/19/2023 AWS Control Flow Lecture started
  - 6/20/2023 AWS Control Flow done
- - 6/21/2023 AWS Functions started it is about the building basic function in Python. 
+ - 6/21/2023 AWS Functions started it is about the building basic function in Python.
+
+4. Game Idea Memo
+ - Games that don't need language
+ - 2D or 3D
+ - Could be Web-based & Unreal Engine
+ - rather than Drawing I want it to be more mood
+ - better to be healing
+ - wants to contain memories
+ - or recal memories 
