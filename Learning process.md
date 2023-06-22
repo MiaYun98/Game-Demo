@@ -25,6 +25,7 @@
    - 6/19/2023 AWS Control Flow Lecture started
    - 6/20/2023 AWS Control Flow done
    - 6/21/2023 AWS Functions started it is about building basic functions in Python.
+   - 6/22/2023 AWS Function Done! 
 
 4. Game Idea Memo
    - Games that don't need language
