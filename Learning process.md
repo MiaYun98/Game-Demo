@@ -2,7 +2,7 @@
     - 6/9/2023 UnReal Engine basic getting the Reference. - Downloaded the program
     - 6/10/2023 UnReal Engine Stack O Bot Tutorial 15min
     - 6/20/2023 Understand how users are interacting in Unreal Engine. But still have to think about what type of game that I want to build.
-    - 
+    - 6/23/2023 Should study about the Physics Engine 
 
 2. Blender 
    - 6/11/2023 Basic Blender - Modeling and smoothing 
@@ -25,7 +25,8 @@
    - 6/19/2023 AWS Control Flow Lecture started
    - 6/20/2023 AWS Control Flow done
    - 6/21/2023 AWS Functions started it is about building basic functions in Python.
-   - 6/22/2023 AWS Function Done! 
+   - 6/22/2023 AWS Function Done!
+   - 6/23/2023 AWS Anaconda Install - Its already installed
 
 4. Game Idea Memo
    - Games that don't need language
