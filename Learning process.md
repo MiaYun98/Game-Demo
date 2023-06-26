@@ -18,7 +18,8 @@
    - 6/18/2023 started building a self-designed object, the Traditional Korean food Injulmi.
    - 6/20/2023 for the Injulmi's texture of powdery I might use the Dust Feature. (using sand texture made it worse it ruined the cute feeling of the circular Items.)
    - 6/21/2023 Injulmi's texture the powdery, and I used the particles for the foggy and dusty. It wasn't that good but it might be better if these particles are on the Injulmi itself. 
-
+  ![Alt text](<Creation/인절미with roughness.png>)
+    
 3. AI and ML Study 
    - 6/15/2023 AWS AI&ML Kick-off session and the first section is done
    - 6/18/2023 AWS Session Attended
