@@ -28,7 +28,8 @@
    - 6/21/2023 AWS Functions started it is about building basic functions in Python.
    - 6/22/2023 AWS Function Done!
    - 6/23/2023 AWS Anaconda Install - Its already installed
-   - 6/27/2023 Building first project - using parser(it is more like getting a file info storing), os(makeing output dict, it is more like calling files and making as a list) 
+   - 6/27/2023 Building first project - using parser(it is more like getting a file info storing), os(makeing output dict, it is more like calling files and making as a list)
+   - 6/29/2023 First Project done! 
 
 4. Game Idea Memo
    - Games that don't need language
