@@ -30,6 +30,7 @@
    - 6/23/2023 AWS Anaconda Install - Its already installed
    - 6/27/2023 Building first project - using parser(it is more like getting a file info storing), os(makeing output dict, it is more like calling files and making as a list)
    - 6/29/2023 First Project done! / Started Learning Stat 101
+   - 6/30/2023 Anaconda started
 
 4. Game Idea Memo
    - Games that don't need language
