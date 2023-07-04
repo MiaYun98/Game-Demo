@@ -41,3 +41,5 @@
    - wants to contain memories
    - or recall memories
    - memories with parents might be good too
+   - Voice Record - or video story telling ish?
+   - I am not good at 2D drawings
