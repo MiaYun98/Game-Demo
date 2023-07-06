@@ -33,6 +33,7 @@
    - 6/30/2023 Anaconda started
    - 7/03/2023 Anaconda is keep making problems
    - 7/04/2023 Anaconda is working on Jupyter notebook
+   - 7/05/2023 Numpy started 
 
 4. Game Idea Memo
    - Games that don't need language
