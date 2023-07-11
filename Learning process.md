@@ -33,7 +33,9 @@
    - 6/30/2023 Anaconda started
    - 7/03/2023 Anaconda is keep making problems
    - 7/04/2023 Anaconda is working on Jupyter notebook
-   - 7/05/2023 Numpy started 
+   - 7/05/2023 Numpy started
+   - 7/10/2023 Numpy Done
+   - 7/11/2023 Pandas Started Saw some students fin the course 
 
 4. Game Idea Memo
    - Games that don't need language
@@ -46,3 +48,4 @@
    - memories with parents might be good too
    - Voice Record - or video story telling ish?
    - I am not good at 2D drawings
+   - Similar with princess maker according to the sentiment analysis 
