@@ -35,7 +35,8 @@
    - 7/04/2023 Anaconda is working on Jupyter notebook
    - 7/05/2023 Numpy started
    - 7/10/2023 Numpy Done
-   - 7/11/2023 Pandas Started Saw some students fin the course 
+   - 7/11/2023 Pandas Started Saw some students fin the course
+   - 7/19/2023 Matplotlib
 
 4. Game Idea Memo
    - Games that don't need language
