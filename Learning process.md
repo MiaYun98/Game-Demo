@@ -2,7 +2,7 @@
     - 6/9/2023 UnReal Engine basic getting the Reference. - Downloaded the program
     - 6/10/2023 UnReal Engine Stack O Bot Tutorial 15min
     - 6/20/2023 Understand how users are interacting in Unreal Engine. But still have to think about what type of game that I want to build.
-    - 6/23/2023 Should study about the Physics Engine 
+    - 6/23/2023 Should study the Physics Engine 
 
 2. Blender 
    - 6/11/2023 Basic Blender - Modeling and smoothing 
@@ -32,7 +32,7 @@
    - 6/29/2023 First Project done! / Started Learning Stat 101
    - 6/30/2023 Anaconda started
    - 7/03/2023 Anaconda is keep making problems
-   - 7/04/2023 Anaconda is working on Jupyter notebook
+   - 7/04/2023 Anaconda is working on a Jupyter notebook
    - 7/05/2023 Numpy started
    - 7/10/2023 Numpy Done
    - 7/11/2023 Pandas Started Saw some students fin the course
@@ -47,6 +47,6 @@
    - wants to contain memories
    - or recall memories
    - memories with parents might be good too
-   - Voice Record - or video story telling ish?
+   - Voice Recording - or video storytelling ish?
    - I am not good at 2D drawings
-   - Similar with princess maker according to the sentiment analysis 
+   - Similar to princess maker according to the sentiment analysis 
