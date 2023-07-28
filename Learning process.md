@@ -38,8 +38,9 @@
    - 7/10/2023 Numpy Done
    - 7/11/2023 Pandas Started Saw some students fin the course
    - 7/19/2023 Matplotlib
-   - 7/24/2023 Matplotlib part 1 is done but it is a bit hard to understand the position of the elements 
-
+   - 7/24/2023 Matplotlib part 1 is done but it is a bit hard to understand the position of the elements
+   - 7/27/2023 Matplotlib - scatter & hist2d
+   - 7/28/2023 Matplotlib - violin & box 
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
