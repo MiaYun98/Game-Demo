@@ -53,4 +53,7 @@
    - memories with parents might be good too
    - Voice Recording - or video storytelling ish?
    - I am not good at 2D drawings
-   - Similar to princess maker according to the sentiment analysis 
+   - Similar to princess maker according to the sentiment analysis
+   - 
+5. Building TTS bot
+   - Recorded the voice data (meta Deta)
