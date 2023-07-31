@@ -57,3 +57,6 @@
    - 
 5. Building TTS bot
    - Recorded the voice data (meta Deta)
+   - ML is done
+   - working on the server part
+   - 
