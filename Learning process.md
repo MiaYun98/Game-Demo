@@ -43,7 +43,8 @@
    - 7/28/2023 Matplotlib - violin & box --> seaborn
    - 7/28/2023 Matplotlib - Categorical Plot --> setting up the data is a bit hard
    - 8/01/2023 Linear Combination - concept is easy but not sure about how should i solve this
-   - 8/01/2023 Linear Transformation and Matrices 
+   - 8/01/2023 Linear Transformation and Matrices
+   - 8/05/2023 Calculus 
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
