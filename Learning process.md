@@ -46,6 +46,7 @@
    - 8/01/2023 Linear Transformation and Matrices
    - 8/05/2023 Calculus
    - 8/07/2023 Limits
+   - 8/08/2023 Calculus in Neural Networks
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
