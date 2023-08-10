@@ -21,6 +21,7 @@
   ![Alt text](<Creation/인절미with roughness.png>)
    - 7/26/2023 making 참외 (Korean melon)
    - 8/09/2023 참외 MODELING is done should work on the color
+   ![Alt text](Creation/참외.png)
    - 
 3. AI and ML Study 
    - 6/15/2023 AWS AI&ML Kick-off session and the first section is done
