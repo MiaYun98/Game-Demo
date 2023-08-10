@@ -20,7 +20,8 @@
    - 6/21/2023 Injulmi's texture the powdery, and I used the particles for the foggy and dusty. It wasn't that good but it might be better if these particles are on the Injulmi itself. 
   ![Alt text](<Creation/인절미with roughness.png>)
    - 7/26/2023 making 참외 (Korean melon)
-    
+   - 8/09/2023 참외 MODELING is done should work on the color
+   - 
 3. AI and ML Study 
    - 6/15/2023 AWS AI&ML Kick-off session and the first section is done
    - 6/18/2023 AWS Session Attended
