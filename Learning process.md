@@ -50,7 +50,7 @@
    - 8/07/2023 Limits
    - 8/08/2023 Calculus in Neural Networks
    - 8/12/2023 Introduction to Neural Network
-   - 8/13/2023
+   - 8/13/2023 Maximizing Probabilities
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
