@@ -51,6 +51,7 @@
    - 8/08/2023 Calculus in Neural Networks
    - 8/12/2023 Introduction to Neural Network
    - 8/13/2023 Maximizing Probabilities
+   - 8/15/2023 Cross-Entropy
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
