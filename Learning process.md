@@ -52,8 +52,8 @@
    - 8/12/2023 Introduction to Neural Network
    - 8/13/2023 Maximizing Probabilities
    - 8/15/2023 Cross-Entropy
-   - 8/16/2023 Gradient Descent
-   - 8/17/2023
+   - 8/16/2023 Logistic Descent
+   - 8/17/2023 Gradient Descent
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
