@@ -54,6 +54,7 @@
    - 8/15/2023 Cross-Entropy
    - 8/16/2023 Logistic Descent
    - 8/17/2023 Gradient Descent
+   - 8/18/2023
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
