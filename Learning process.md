@@ -55,7 +55,8 @@
    - 8/16/2023 Logistic Descent
    - 8/17/2023 Gradient Descent
    - 8/18/2023 Training Neural network
-   - 8/21/2023 have No idea -> dont know How to build a image classifier
+   - 8/21/2023 have No idea -> don't know How to build an image classifier
+   - 8/22/2023 Deep Learning with PyTorch
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
