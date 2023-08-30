@@ -60,7 +60,7 @@
    - 8/25/2023 Tensors in PyThorch 
    - 8/27/2023 Neural Networks in PyTorch
    - 8/28/2023 Training Neural Networks & Fashion-MNIST
-   - 8/29/2023 
+   - 8/29/2023 Inference and Validation & Saving and Loading Models 
    - 8/30/2023 
    - 
 4. Game Idea Memo
