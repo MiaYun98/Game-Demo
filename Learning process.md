@@ -59,6 +59,9 @@
    - 8/22/2023 Deep Learning with PyTorch
    - 8/27/2023 Vector calculation
    - 8/28/2023 PyTorch
+   - 8/29/2023 Training Neural Networks & Fashion-MNIST
+   - 8/30/2023
+   - 
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
