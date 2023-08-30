@@ -57,10 +57,10 @@
    - 8/18/2023 Training Neural network
    - 8/21/2023 have No idea -> don't know How to build an image classifier
    - 8/22/2023 Deep Learning with PyTorch
-   - 8/27/2023 Vector calculation
-   - 8/28/2023 PyTorch
+   - 8/27/2023 Tensors in PyThorch
+   - 8/28/2023 Neural Networks in PyTorch
    - 8/29/2023 Training Neural Networks & Fashion-MNIST
-   - 8/30/2023
+   - 8/30/2023 
    - 
 4. Game Idea Memo
    - Games that don't need language
