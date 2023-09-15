@@ -63,7 +63,11 @@
    - 8/29/2023 Inference and Validation & Saving and Loading Models 
    - 8/30/2023 Loading Image Data & Transfer Learning 
    - 8/31/2023 Project 2 worked on -> classifier done
-   - 9/03/2023 Project 2 Image loading worked on 
+   - 9/03/2023 Project 2 Image loading worked on
+   - 9/05/2023 Project 2 Keep working on the predict
+   - 9/08/2023 Project 2 Jupyter notebook is working perfectly
+   - 9/10/2023 Project 2 Python working on the predict part but it is not working as i intended
+   - 9/11/2023 Project 2 python training is working but still working on the predict file  
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
