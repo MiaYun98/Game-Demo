@@ -67,7 +67,9 @@
    - 9/05/2023 Project 2 Keep working on the predict
    - 9/08/2023 Project 2 Jupyter notebook is working perfectly
    - 9/10/2023 Project 2 Python working on the predict part but it is not working as i intended
-   - 9/11/2023 Project 2 python training is working but still working on the predict file  
+   - 9/11/2023 Project 2 python training is working but still working on the predict file
+   - 9/13/2023 Project 2 sumbit & pass
+   - 9/15/2023 Graduation process 
 4. Game Idea Memo
    - Games that don't need language
    - 2D or 3D
