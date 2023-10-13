@@ -89,3 +89,5 @@
    - ML is done
    - working on the server part
    - asked about the error
+6. Data Analyst Study
+   - Done 3rd part of the course
