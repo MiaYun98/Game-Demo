@@ -91,3 +91,4 @@
    - asked about the error
 6. Data Analyst Study
    - Done 3rd part of the course
+   - Working on the practice of SQL & Spread Sheet 
