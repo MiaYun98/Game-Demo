@@ -92,4 +92,6 @@
 6. Data Analyst Study
    - Done 3rd part of the course
    - Working on the practice of SQL & Spread Sheet
-   - SQL JOIN, COUNT, SUBQUERY 
+   - SQL JOIN, COUNT, SUBQUERY
+   - Data Calculation & Pivot table
+   - 
