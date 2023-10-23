@@ -94,4 +94,4 @@
    - Working on the practice of SQL & Spread Sheet
    - SQL JOIN, COUNT, SUBQUERY
    - Data Calculation & Pivot table
-   - 
+   - Data visualization with Tableau
