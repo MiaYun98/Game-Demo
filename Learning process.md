@@ -95,3 +95,4 @@
    - SQL JOIN, COUNT, SUBQUERY
    - Data Calculation & Pivot table
    - Data visualization with Tableau
+   - Share data through the Art of Visualization  DONE 
