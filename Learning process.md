@@ -97,4 +97,4 @@
    - Data visualization with Tableau
    - Share data through the Art of Visualization  DONE
    - When over the basic of the RStudio
-   - 
+   - R done
