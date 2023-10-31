@@ -98,3 +98,8 @@
    - Share data through the Art of Visualization  DONE
    - When over the basic of the RStudio
    - R done
+   - Working with personal project for the last part of the program
+   - updated the resume
+   - should work on portfolio as well after its done
+   - 
+   
