@@ -101,5 +101,7 @@
    - Working with personal project for the last part of the program
    - updated the resume
    - should work on portfolio as well after its done
-   - DATA Analyst certificate received 
+   - DATA Analyst certificate received
+   - Studying SQL through HackerRank
+   - 
    
