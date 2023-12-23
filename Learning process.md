@@ -103,5 +103,7 @@
    - should work on portfolio as well after its done
    - DATA Analyst certificate received
    - Studying SQL through HackerRank
-   - 
+  
+7. Getting used to Mac progamming environment
+   - Downloaded VS studio 
    
